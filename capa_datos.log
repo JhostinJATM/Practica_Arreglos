@@ -1,0 +1,84 @@
+
+
+09:15:14 PM: INFO [_internal.py:97] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.13:5000
+
+
+09:15:14 PM: INFO [_internal.py:97] [33mPress CTRL+C to quit[0m
+
+
+09:15:14 PM: INFO [_internal.py:97]  * Restarting with stat
+
+
+09:15:15 PM: WARNING [_internal.py:97]  * Debugger is active!
+
+
+09:15:15 PM: INFO [_internal.py:97]  * Debugger PIN: 175-093-466
+
+
+09:15:26 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:26] "GET / HTTP/1.1" 200 -
+
+
+09:15:27 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:27] "GET /static/imgs/header.png HTTP/1.1" 200 -
+
+
+09:15:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:31] "GET /personas HTTP/1.1" 200 -
+
+
+09:15:31 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:31] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:34] "GET /personas/ver HTTP/1.1" 200 -
+
+
+09:15:34 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:34] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:37] "[32mPOST /personas/guardar HTTP/1.1[0m" 302 -
+
+
+09:15:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:37] "GET /personas HTTP/1.1" 200 -
+
+
+09:15:37 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:37] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:41 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:41] "GET /personas/editar/16 HTTP/1.1" 200 -
+
+
+09:15:42 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:42] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:45] "GET /personas HTTP/1.1" 200 -
+
+
+09:15:45 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:45] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:47] "GET /personas/editar/16 HTTP/1.1" 200 -
+
+
+09:15:47 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:47] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:15:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:49] "GET /personas HTTP/1.1" 200 -
+
+
+09:15:49 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:15:49] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:16:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:16:52] "GET /personas/editar/16 HTTP/1.1" 200 -
+
+
+09:16:52 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:16:52] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -
+
+
+09:17:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:17:01] "[32mPOST /personas/modificar HTTP/1.1[0m" 302 -
+
+
+09:17:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:17:01] "GET /personas HTTP/1.1" 200 -
+
+
+09:17:01 PM: INFO [_internal.py:97] 127.0.0.1 - - [20/May/2024 21:17:01] "[36mGET /static/imgs/header.png HTTP/1.1[0m" 304 -

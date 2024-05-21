@@ -1,0 +1,82 @@
+[
+    {
+        "id": 16,
+        "nombre_comando": "Npm start",
+        "fecha_agregado": "2024-05-20 21:15:37"
+    },
+    {
+        "id": 15,
+        "nombre_comando": "python script.py",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 14,
+        "nombre_comando": "node index.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 13,
+        "nombre_comando": "npm start",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 12,
+        "nombre_comando": "tsc script.ts",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 11,
+        "nombre_comando": "node server.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 10,
+        "nombre_comando": "node app.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 9,
+        "nombre_comando": "node main.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 8,
+        "nombre_comando": "node app.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 7,
+        "nombre_comando": "node main.js",
+        "fecha_agregado": "2024-05-20 19:56:32"
+    },
+    {
+        "id": 6,
+        "nombre_comando": "node app.js",
+        "fecha_agregado": "2024-05-20 19:56:31"
+    },
+    {
+        "id": 5,
+        "nombre_comando": "node main.js",
+        "fecha_agregado": "2024-05-20 19:56:31"
+    },
+    {
+        "id": 4,
+        "nombre_comando": "node app.js",
+        "fecha_agregado": "2024-05-20 19:56:28"
+    },
+    {
+        "id": 3,
+        "nombre_comando": "node main.js",
+        "fecha_agregado": "2024-05-20 19:56:28"
+    },
+    {
+        "id": 2,
+        "nombre_comando": "node app.js",
+        "fecha_agregado": "2024-05-20 19:56:23"
+    },
+    {
+        "id": 1,
+        "nombre_comando": "node main.js",
+        "fecha_agregado": "2024-05-20 19:56:23"
+    }
+]
